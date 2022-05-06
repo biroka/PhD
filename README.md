@@ -7,12 +7,12 @@ I am Cotutelle PhD Student in Health Sciences and in Computer Science
 * University of Medicine, Pharmacy, Science and Technology "G.E. Palade"
 * PhD start date: 2020.09 
 * Location: Targu Mures, Romania
-* Tutor: Sándor M Szilágyi
+* Tutor: Prof. Dr. Ing. Sándor M Szilágyi
 * Research groups: Applied AI in Healthcare and Bioinformatics
 
 # PhD in Health Sciences (On-Going)
 * Univerity of Málaga
 * PhD start date: 2021.02 
 * Location: Málaga, Spain
-* Tutors: Antonio Cuesta Vargas (Director), Jaime Martin-Martin
+* Tutors: Prof. Dr. Antonio Cuesta Vargas (Director), Pof. Dr. Jaime Martin-Martin
 * Research groups: [Clinimetria] http://clinimetria.es/equipo
