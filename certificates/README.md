@@ -1,6 +1,8 @@
 ##  Certificates connected to PhD
 
 4th EVALUATION (UMA)
+1. 2022.07.02 - 2022.xx.xx :: Coursera - **Quantitative Research Methods** by University of Amsterdam [[pdf]](/certificates/Coursera_xxx.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/xxxxxx)
+
 
 3rd EVALUATION (UMA 2022/2023 - 4/10/22)
 1. 2023.04.05 - 2023.04.10 :: Coursera - **The Data Scientist’s Toolbox** by Johns Hopkins University [[pdf]](/certificates/Coursera_2023_The_Data_Scientist_Toolbox_ZD8VSEKXQZMS.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZD8VSEKXQZMS)
