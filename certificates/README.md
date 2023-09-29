@@ -5,10 +5,10 @@
 2. 2023.08.27 - 2023.09.23 :: Coursera - **Research Proposal: Initiating Research** by University of California, Davis (UCDAVIS) [[pdf]](/certificates/Coursera_LVASMXWKQPT5.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/LVASMXWKQPT5)
 
 3rd EVALUATION (UMA 2022/2023 - 4/10/22)
-1. 2023.04.05 - 2023.04.10 :: Coursera - **The Data Scientist’s Toolbox** by Johns Hopkins University [[pdf]](/certificates/Coursera_2023_The_Data_Scientist_Toolbox_ZD8VSEKXQZMS.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZD8VSEKXQZMS)
-2. 2023.04.01 - 2023.04.10 :: Coursera - **Understanding Clinical Research: Behind the Statistics** by University of Cape Town [[pdf]](/certificates/Coursera_2023_Understanding_Clinical_Research_Behind_the_Statistics_8TGV97BM7KP7.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/8TGV97BM7KP7)
-3. 2023.04.01 - 2023.04.09 :: Coursera - **Case Studies in Personalized Medicine** by University of Virginia [[pdf]](/certificates/Coursera_2023_Case_Studies_in_Personalized_Medicine_SN2X64SS6CRN.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/SN2X64SS6CRN)
-4. 2022.07.10 - 2022.08.15 :: Coursera - **Digital Transformation** by Vanderbilt University [[pdf]](/certificates/Coursera_2022_Digital_Transformation_5VEFEF8Y5MQU.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/5VEFEF8Y5MQU)
+1. 2023.04.05 - 2023.04.10 :: Coursera - **The Data Scientist’s Toolbox** by Johns Hopkins University [[pdf]](certificates/Coursera_2023_The_Data_Scientist_Toolbox_ZD8VSEKXQZMS.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZD8VSEKXQZMS)
+2. 2023.04.01 - 2023.04.10 :: Coursera - **Understanding Clinical Research: Behind the Statistics** by University of Cape Town [[pdf]](certificates/Coursera_2023_Understanding_Clinical_Research_Behind_the_Statistics_8TGV97BM7KP7.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/8TGV97BM7KP7)
+3. 2023.04.01 - 2023.04.09 :: Coursera - **Case Studies in Personalized Medicine** by University of Virginia [[pdf]](certificates/Coursera_2023_Case_Studies_in_Personalized_Medicine_SN2X64SS6CRN.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/SN2X64SS6CRN)
+4. 2022.07.10 - 2022.08.15 :: Coursera - **Digital Transformation** by Vanderbilt University [[pdf]](certificates/Coursera_2022_Digital_Transformation_5VEFEF8Y5MQU.pdf) [[coursera]](https://www.coursera.org/account/accomplishments/verify/5VEFEF8Y5MQU)
 
 
 2nd EVALUATION (UMFST, UMA 2021/2022 - 5/10/21)
