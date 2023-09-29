@@ -1,4 +1,4 @@
-##  Certificates connected to PhD
+##  Certificates connected to PhD or Research/AI domains
 
 4th EVALUATION (UMA)
 1. 2022.10.01 - 2023.09.28 :: Coursera - **Quantitative Methods** by University of Amsterdam [[coursera]](https://www.coursera.org/account/accomplishments/verify/SUQ9QMMZ9EAX)
