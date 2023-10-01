@@ -1,8 +1,10 @@
 ##  Certificates connected to PhD or Research/AI domains
 
 4th EVALUATION (UMA)
-1. 2022.10.01 - 2023.09.28 :: Coursera - **Quantitative Methods** by University of Amsterdam [[coursera]](https://www.coursera.org/account/accomplishments/verify/SUQ9QMMZ9EAX)
-2. 2023.08.27 - 2023.09.23 :: Coursera - **Research Proposal: Initiating Research** by University of California, Davis (UCDAVIS) [[coursera]](https://www.coursera.org/account/accomplishments/verify/LVASMXWKQPT5)
+1. 2023.09.01 - 2023.10.01 :: Coursera - **Reproducible Research** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/TB9QEMK487JG)
+2. 2023.09.01 - 2023.09.29 :: Coursera - **Hypothesis Testing in Public Health** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/JL8QEEUDVL2H)
+3. 2022.10.01 - 2023.09.28 :: Coursera - **Quantitative Methods** by University of Amsterdam [[coursera]](https://www.coursera.org/account/accomplishments/verify/SUQ9QMMZ9EAX)
+4. 2023.08.27 - 2023.09.05 :: Coursera - **Research Proposal: Initiating Research** by University of California, Davis (UCDAVIS) [[coursera]](https://www.coursera.org/account/accomplishments/verify/LVASMXWKQPT5)
 
 3rd EVALUATION (UMA 2022/2023 - 4/10/22)
 1. 2023.04.05 - 2023.04.10 :: Coursera - **The Data Scientist’s Toolbox** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZD8VSEKXQZMS)
