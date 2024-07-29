@@ -2,6 +2,7 @@
 
 DEFENSE PERIOD
 1. 2024.07.01 - 2024.07.28 :: Coursera - **Being a researcher (in Information Science and Technology)** by Politecnico di Milano [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZAKQGRBMEV6A)
+2. 2024.06.10 - 2024.07.24 :: Coursera - **Ethics, Technology and Engineering** by Eindhoven University of Technology [[coursera]](https://www.coursera.org/account/accomplishments/verify/KYV5NR5ZUJYZ)
 
 4th EVALUATION (UMA)
 1. 2023.09.01 - 2023.10.01 :: Coursera - **Reproducible Research** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/TB9QEMK487JG)
