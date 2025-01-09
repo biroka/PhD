@@ -1,7 +1,6 @@
 # PhD
-My PhD Papers and Presentations
 
-PhD in Health Sciences and in Computer Science
+PhD in **Health Sciences** and in **Computer Science**
 
 # PhD in Computer Science (defended on 26th October, 2024)
 * University of Medicine, Pharmacy, Science and Technology "G.E. Palade"
