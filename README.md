@@ -2,7 +2,7 @@
 
 PhD in **Health Sciences** and in **Computer Science**
 
-# PhD in Computer Science (defended on 26th October, 2024)
+# PhD in Computer Science
 * University of Medicine, Pharmacy, Science and Technology "G.E. Palade"
 * Department: Department of Electrical Engineering and Information Technology
 * PhD start date: 2020.09
@@ -11,7 +11,7 @@ PhD in **Health Sciences** and in **Computer Science**
 * Tutor: Prof. Dr. Sándor Miklós Szilágyi
 * Research groups: Applied AI in Healthcare and Bioinformatics
 
-# PhD in Health Sciences (defended on 26th October, 2024)
+# PhD in Health Sciences
 * University of Málaga
 * Department: Department of Physiotherapy
 * PhD start date: 2021.02
