@@ -1,8 +1,5 @@
 # PhD
 
-PhD in **Health Sciences** and in **Computer Science**
-PhD in **Applied Mathematics** (ON-GOING)
-
 # PhD in Mathematics (Hungary)
 * Obuda University
 * Department: Doctoral School of Applied Informatics and Applied Mathematics
