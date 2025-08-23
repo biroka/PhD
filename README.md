@@ -1,5 +1,3 @@
-# PhD
-
 # PhD in Mathematics (Hungary)
 * Obuda University
 * Department: Doctoral School of Applied Informatics and Applied Mathematics
