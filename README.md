@@ -1,7 +1,7 @@
 # PhD in Mathematics (Hungary)
 * Obuda University
 * Department: Doctoral School of Applied Informatics and Applied Mathematics
-* PhD start date: 2025.09
+* PhD start date: 2025.09 (On-Going)
 * Location: Budapest, Hungary
 * Tutors: Prof. Dr. Levente Kovács, Prof. Dr. László Szilágyi
 * Research groups: AIAMDI, ODNEAI, EKIK, PHYSCON
