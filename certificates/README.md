@@ -1,10 +1,11 @@
 
 ##  Certificates - Mathematics PHD or Research/AI domains
 
-1. 2025.10.11 :: **Advanced Statistics for Data Science (Specialization Certificate)** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE)
-2. 2025.08.22 :: **Foundational Mathematics for AI** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/51QKIZS2DUV1)
-3. 2022.10.01 :: **Basic Statistics** by University of Amsterdam [[coursera]](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM)
-4. 2021.09.26 :: **Data Science Math Skills** by Duke University [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
+1. 2026.04.03 :: **AI Literacy for All** by The Digital Education Council (DEC) x Obuda University [[DEC]](https://github.com/biroka/PhD/blob/main/certificates/Biro_Attila_OE_AI_Literacy_for_All_rk08m3mh7a-%202026-04-03.pdf)
+2. 2025.10.11 :: **Advanced Statistics for Data Science (Specialization Certificate)** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/specialization/QVHY1O680BXE)
+3. 2025.08.22 :: **Foundational Mathematics for AI** by Johns Hopkins University [[coursera]](https://www.coursera.org/account/accomplishments/verify/51QKIZS2DUV1)
+4. 2022.10.01 :: **Basic Statistics** by University of Amsterdam [[coursera]](https://www.coursera.org/account/accomplishments/verify/JTHFJU6BY4EM)
+5. 2021.09.26 :: **Data Science Math Skills** by Duke University [[coursera]](https://www.coursera.org/account/accomplishments/verify/ZHMPNUULB3ZZ)
 
 
 ##  Certificates - Informatics and Health PHDs or Research/AI domains
