@@ -1,1 +1,1 @@
-
+OpenAI Partner Network - Certificates
